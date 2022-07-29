@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: clair de lune
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://clairdelune.shop/"
+baseurl: "/eastsidestudio"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   eastsidestudio
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://clairdelune.shop/photorama/gallery/"  
+  - JOURNAL: "https://clairdelune.shop/photorama/journal/"
+  - ABOUT: "https://clairdelune.shop/photorama/about/"
 
 # All translation keys
 translations:
